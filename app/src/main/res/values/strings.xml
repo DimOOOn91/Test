@@ -6,4 +6,5 @@
     <string name="email">e-mail</string>
     <string name="icq">ICQ</string>
     <string name="result">Result</string>
+    <string name="submit">Submit</string>
 </resources>

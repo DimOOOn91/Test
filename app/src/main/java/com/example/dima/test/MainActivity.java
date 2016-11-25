@@ -40,6 +40,11 @@ public class MainActivity extends AppCompatActivity {
                         phone.getText().toString(), email.getText().toString(),
                         icq.getText().toString());
                 result.setText(sNote.toString());
+                name.setText("");
+                nikName.setText("");
+                phone.setText("");
+                email.setText("");
+                icq.setText("");
             }
         });
 
