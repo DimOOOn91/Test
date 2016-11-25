@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="name">Name</string>
+    <string name="nikName">Nik</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">e-mail</string>
+    <string name="icq">ICQ</string>
+    <string name="result">Result</string>
+</resources>
